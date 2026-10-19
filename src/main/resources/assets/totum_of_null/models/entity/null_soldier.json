@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:entity/player",
+    "textures": {
+        "default": "totum_of_null:textures/entity/null_soldier.png"
+    }
+}

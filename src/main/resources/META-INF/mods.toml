@@ -1,0 +1,23 @@
+[[mods]]
+modId="totum_of_null"
+version="${file.jarVersion}"
+displayName="Totum of Null"
+credits="Created by EnderDevelopment"
+authors="EnderDevelopment"
+description='''
+A Minecraft mod that spawns Null Soldiers and allows you to command them.
+'''
+
+[[dependencies.totum_of_null]]
+modId="forge"
+mandatory=true
+versionRange="[40,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.totum_of_null]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.18.2,1.19)"
+ordering="NONE"
+side="BOTH"
